@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felippe Ribeiro
 
-- 📖 Estudande de Análise e Desenvolvimento de Sistemas
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas
 - 📙 Estudando Java
 - 📫 Contate-me no email: felipperibeiro342@gmail.com
 - 😄 Pronouns: Ele/Dele
