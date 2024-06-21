@@ -1,30 +1,26 @@
-
 `System.out.println("Welcome to my github!😆")`
 
 ##
 
-### Olá! Eu sou o Felippe Ribeiro
+### Hello! I'm Felippe Ribeiro
 
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas
-- 📙 Estudando Java
-- 📫 Contate-me no email: felipperibeiro342@gmail.com
-
+- 📖 Student of Systems Analysis and Development
+- 📙 Studying Java
+- 📫 Contact me at: felipperibeiro342@gmail.com
 
 ##
 
 ### 💻 Main Skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felippe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felippe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Felippe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felippe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felippe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Felippe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Felippe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Felippe-Js" height="30" width="40" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Felippe-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=typescript">
+  <img align="center" alt="Felippe-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Felippe-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Felippe-Java" height="30" width="40" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Felippe-PHP" height="30" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Felippe-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
 </div>
-
-
 
 ##
 
