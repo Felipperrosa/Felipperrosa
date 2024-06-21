@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/felippe-ribeiro-8b9894255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr style="border: 2px solid;">
+<br>
 
 `Enjoy :)`
 
