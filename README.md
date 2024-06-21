@@ -8,11 +8,11 @@
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 - 📙 Estudando Java
 - 📫 Contate-me no email: felipperibeiro342@gmail.com
-- 😄 Pronouns: Ele/Dele
+
 
 ##
 
-### 💻 Skills
+### 💻 Main Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felippe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
