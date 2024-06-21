@@ -10,7 +10,7 @@
 
 ##
 
-### 💻 Main Skills
+### Main Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felippe-Js" height="50" width="50" src="https://skillicons.dev/icons?i=javascript">
