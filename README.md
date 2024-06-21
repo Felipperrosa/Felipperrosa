@@ -13,13 +13,13 @@
 ### 💻 Main Skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felippe-Js" height="30" width="40" src="https://skillicons.dev/icons?i=javascript">
-  <img align="center" alt="Felippe-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=typescript">
-  <img align="center" alt="Felippe-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Felippe-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Felippe-Java" height="30" width="40" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Felippe-PHP" height="30" width="40" src="https://skillicons.dev/icons?i=php">
-  <img align="center" alt="Felippe-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Felippe-Js" height="50" width="50" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Felippe-Ts" height="50" width="50" src="https://skillicons.dev/icons?i=typescript">
+  <img align="center" alt="Felippe-HTML" height="50" width="50" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Felippe-CSS" height="50" width="50" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Felippe-Java" height="50" width="50" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Felippe-PHP" height="50" width="50" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Felippe-MySQL" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
 </div>
 
 ##
