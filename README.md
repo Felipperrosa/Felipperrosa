@@ -10,6 +10,13 @@
 - 📫 Contate-me no email: felipperibeiro342@gmail.com
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=1000&color=762EF7&center=true&vCenter=true&width=435&lines=You're+welcome!;My+name+is+Lian;I'm+20+years+old;I+study+Information+Systems+at+CEFET-RJ;I'm+interested+in+Full+Stack+programming)](https://git.io/typing-svg)
+  <div align="center">  
+
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendeslian&layout=compact&hide_border=true&title_color=81749c&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+
 ##
 
 ### 💻 Main Skills
