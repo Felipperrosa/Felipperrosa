@@ -10,7 +10,7 @@
 ### Hello! I'm Felippe Ribeiro
 
 <p>🎓 Student of Systems Analysis and Development</p>
-<p>📙 Studying Java</p>
+<p>📙 Currently an intern in Data Engineering at Compass UOL.</p>
 <p>📫 Contact me at: felipperibeiro342@gmail.com</p>
 
 <hr style="border: 2px solid;">
