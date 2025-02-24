@@ -1,6 +1,6 @@
 
 
-`print("Seja bem vindo ao meu Repositório!😄")`
+`print("Welcome to my github!😆")`
 
 <hr style="border: 2px solid;">
 
